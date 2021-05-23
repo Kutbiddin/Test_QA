@@ -1,0 +1,12 @@
+/Users/kutbiddin/Projects/Test_QA_01/Test_QA_01/bin/Release/netcoreapp3.1/Test_QA_01.deps.json
+/Users/kutbiddin/Projects/Test_QA_01/Test_QA_01/bin/Release/netcoreapp3.1/Test_QA_01.runtimeconfig.json
+/Users/kutbiddin/Projects/Test_QA_01/Test_QA_01/bin/Release/netcoreapp3.1/Test_QA_01.runtimeconfig.dev.json
+/Users/kutbiddin/Projects/Test_QA_01/Test_QA_01/bin/Release/netcoreapp3.1/Test_QA_01.dll
+/Users/kutbiddin/Projects/Test_QA_01/Test_QA_01/bin/Release/netcoreapp3.1/Test_QA_01.pdb
+/Users/kutbiddin/Projects/Test_QA_01/Test_QA_01/obj/Release/netcoreapp3.1/Test_QA_01.csprojAssemblyReference.cache
+/Users/kutbiddin/Projects/Test_QA_01/Test_QA_01/obj/Release/netcoreapp3.1/Test_QA_01.AssemblyInfoInputs.cache
+/Users/kutbiddin/Projects/Test_QA_01/Test_QA_01/obj/Release/netcoreapp3.1/Test_QA_01.AssemblyInfo.cs
+/Users/kutbiddin/Projects/Test_QA_01/Test_QA_01/obj/Release/netcoreapp3.1/Test_QA_01.csproj.CoreCompileInputs.cache
+/Users/kutbiddin/Projects/Test_QA_01/Test_QA_01/obj/Release/netcoreapp3.1/Test_QA_01.dll
+/Users/kutbiddin/Projects/Test_QA_01/Test_QA_01/obj/Release/netcoreapp3.1/Test_QA_01.pdb
+/Users/kutbiddin/Projects/Test_QA_01/Test_QA_01/obj/Release/netcoreapp3.1/Test_QA_01.genruntimeconfig.cache
