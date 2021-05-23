@@ -6,7 +6,12 @@ namespace ProcessWatcher
     {
         static void Main(string[] args)
         {
-            Watcher watcher = new Watcher();
+            /*foreach (string input in args)
+            {
+                Console.WriteLine(input);
+
+            }*/
+            Watcher watcher = new Watcher(args[0], args[1], args[2]);
         }
     }
 }
